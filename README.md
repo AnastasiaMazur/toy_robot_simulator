@@ -1,5 +1,16 @@
 Using Python3.7
 
+### Run
+```
+python run.py
+```
+
+
+### Run Tests
+```
+python -m unittest test.TestToyRobot
+```
+
 
 ### Overview
 
